@@ -1,0 +1,82 @@
+{
+  "title": "Pourquoi XTONE",
+  "description": "Garantie de qualité et d'exclusivité des surfaces compactes minérales frittées et de la pierre naturelle pour les surfaces de grand format.",
+  "descriptionSection": {
+    "sintered": {
+      "largeFormat": {
+        "title": "Grand format",
+        "description": "Le format n'est plus une contrainte et permet une plus grande continuité et esthétique visuelle dans les espaces. Les surfaces s'adaptent à n'importe quel environnement et application, devenant une option d'une extraordinaire polyvalence."
+      },
+      "thickness": {
+        "title": "Épaisseur",
+        "description": "La variété des différentes épaisseurs en 3 (uniquement XLight), 6, 12 et 20 millimètres permet de classer les surfaces grand format selon le type d'application auquel elles sont destinées. Murs, sols, meubles ou plans de travail de cuisine sont quelques-unes des options."
+      }
+    },
+    "natural": {
+      "largeFormat": {
+        "title": "Grand format",
+        "description": "Des environnements plus naturels, exclusifs et luxueux revivent à travers des surfaces naturelles de grand format. La pierre naturelle devient une option illimitée pour son application dans tout type de projets."
+      },
+      "thickness": {
+        "title": "Épaisseur",
+        "description": "Les différentes épaisseurs que présente la pierre naturelle en 20 et 30 millimètres permettent de classer les surfaces de grand format selon le type d'application auquel elles sont destinées. Les plans de travail muraux, de sol ou de cuisine sont quelques-unes des options."
+      }
+    }
+  },
+  "advantages": {
+    "title": "Avantages",
+    "description": "Les meilleures propriétés de qualité.",
+    "1": {
+      "title": "100% naturel et recyclable",
+      "description": "Des surfaces durables constituées de matériaux entièrement réutilisables après leur cycle de vie."
+    },
+    "2": {
+      "title": "Étanche",
+      "description": "Il empêche l'absorption de liquides et l'accumulation d'odeurs grâce à sa faible porosité."
+    },
+    "3": {
+      "title": "Hygiénique",
+      "description": "Faible émission de composés organiques volatils, permettant un contact direct avec les denrées alimentaires."
+    },
+    "4": {
+      "title": "Résistant aux rayures et aux chocs",
+      "description": "Haute tolérance à l'énergie des impacts et des outils de coupe utilisés sur la surface."
+    },
+    "5": {
+      "title": "Résistant à la glace et au gel",
+      "description": "Stable aux changements brusques de température, il résiste aux conditions de froid extrême."
+    },
+    "6": {
+      "title": "Ignifugé",
+      "description": "Il conserve son aspect et ses performances lorsqu'il est exposé à des températures élevées."
+    },
+    "7": {
+      "title": "Résistant aux UV",
+      "description": "Inaltérable aux rayons ultraviolets, il reste stable contre l'usure due à un fort éclairage."
+    },
+    "8": {
+      "title": "Résistant à l'abrasion",
+      "description": "Haute durabilité et bonne résistance à l'usure et aux rayures dues à une utilisation quotidienne."
+    },
+    "9": {
+      "title": "Résistant aux produits chimiques et aux taches",
+      "description": "Inaltérable aux produits chimiques ménagers et haute résistance à tout type de taches."
+    },
+    "10": {
+      "title": "Facile à nettoyer",
+      "description": "L'utilisation de produits spécifiques est inutile grâce à l'entretien sans effort du matériau."
+    }
+  },
+  "care&maintenance": {
+    "title": "Entretien et maintenance",
+    "discover": "Découvrez nos recommandations de nettoyage"
+  },
+  "environment": {
+    "title": {
+      "first": "Engagé",
+      "second": "pour",
+      "third": "l'environnement"
+    },
+    "description": "Le respect de l'environnement, la durabilité et la réutilisation des ressources sont les éléments clés de la philosophie de Porcelanosa Grupo."
+  }
+}

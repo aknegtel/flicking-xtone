@@ -1,0 +1,85 @@
+{
+  "title": "Why XTONE",
+  "description": "Guarantee of quality and exclusivity from the sintered mineral compact surfaces and natural stone on for large format surfaces.",
+  "descriptionSection": {
+    "sintered": {
+      "largeFormat": {
+        "title": "Large format",
+        "description": "The format is no longer a constraint and allows for greater continuity and visual aesthetics in spaces. The surfaces adapt to any environment and application, becoming an option of extraordinary versatility."
+      },
+      "thickness": {
+        "title": "Thickness",
+        "description": "The variety of different thicknesses in 3 (only XLight), 6, 12 and 20 millimetres allow the large-format surfaces to be classified according to the type of application for which they are destined. Wall, floor, furniture or kitchen worktops are some of the options."
+      }
+    },
+    "natural": {
+      "largeFormat": {
+        "title": "Large format",
+        "description": "More natural, exclusive and luxurious environments relive through large-format natural surfaces. Natural stone becomes a limitless option for its application in any type of projects."
+      },
+      "thickness": {
+        "title": "Thickness",
+        "description": "The different thicknesses that natural stone presents in 20 and 30 millimeters allow the large-format surfaces to be classified according to the type of application to which they are destined. Wall, floor or kitchen countertops are some of the options."
+      }
+    }
+  },
+  "advantages": {
+    "title": "Advantages",
+    "description": "The best quality properties.",
+    "1": {
+      "title": "100% natural and reciclable",
+      "description": "Durable surfaces made out of materials that can be completely reused after their life cycle."
+    },
+    "2": {
+      "title": "Waterproof",
+      "description": "It prevents the absorption of liquids and the accumulation of odours thanks to its low porosity."
+    },
+    "3": {
+      "title": "Hygienic",
+      "description": "Low emission of volatile organic compounds, allowing direct contact with foodstuffs."
+    },
+    "4": {
+      "title": "Scratch and impact resistant",
+      "description": "High tolerance to energy from impacts and cutting tools used on the surface."
+    },
+    "5": {
+      "title": "Resistant to ice and frost",
+      "description": "Stable to sudden temperature changes, it withstands extreme cold conditions."
+    },
+    "6": {
+      "title": "Fire resistant",
+      "description": "It maintains its aspect and performance when exposed to high temperatures."
+    },
+    "7": {
+      "title": "UV resistant",
+      "description": "Unalterable by ultraviolet rays, it remains stable against wear and tear due to strong illumination."
+    },
+    "8": {
+      "title": "Abrasion resistant",
+      "description": "High durability and good resistance to wear and tear and scratches from daily use."
+    },
+    "9": {
+      "title": "Chemical and stain resistant",
+      "description": "Unalterable to household chemicals and high resistance to any type of stains."
+    },
+    "10": {
+      "title": "Easy to clean",
+      "description": "The use of specific products is unnecessary thanks to the zero-effort care of the material."
+    }
+  },
+  "care&maintenance": {
+    "title": {
+      "care": "Care",
+      "maintenance": "maintenance"
+    },
+    "discover": "Discover our cleaning recommendations"
+  },
+  "environment": {
+    "title": {
+      "first": "Committed",
+      "second": "to the",
+      "third": "environment"
+    },
+    "description": "Respect for the environment, sustainability and the reuse of resources are the key elements from the Porcelanosa Grupo philosophy."
+  }
+}

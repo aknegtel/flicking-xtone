@@ -1,0 +1,82 @@
+{
+  "title": "Porqué XTONE",
+  "description": "Garantía de calidad y exclusividad a partir del mineral compacto sinterizado y piedra natural en superficies de gran formato.",
+  "descriptionSection": {
+    "sintered": {
+      "largeFormat": {
+        "title": "Gran formato",
+        "description": "El formato ya no es una limitación y permite alcanzar una mayor continuidad y estética visual en los espacios. Las superficies se adaptan a cualquier ambiente y aplicación, convirtiéndose en una opción de extraordinaria versatilidad."
+      },
+      "thickness": {
+        "title": "Espesores",
+        "description": "La variedad de los diferentes espesores en 3 (solo XLight), 6, 12 y 20 milímetros permiten que las superficies de gran formato se clasifiquen en función al tipo de aplicación a la cual van destinadas. Revestimiento, pavimento, mobiliario o encimeras de cocina son algunas de las opciones."
+      }
+    },
+    "natural": {
+      "largeFormat": {
+        "title": "Gran formato",
+        "description": "Ambientes más naturales, exclusivos y lujosos cobran vida a través de superficies naturales de gran formato. La piedra natural se convierte en una opción sin límites para su aplicación en cualquier tipo de proyectos."
+      },
+      "thickness": {
+        "title": "Espesores",
+        "description": "Los diferentes espesores que presenta la piedra natural en 20 y 30 milímetros permiten que las superficies de gran formato se clasifiquen en función al tipo de aplicación a la cual van destinadas. Revestimiento, pavimento o encimeras de cocina son algunas de las opciones."
+      }
+    }
+  },
+  "advantages": {
+    "title": "Ventajas",
+    "description": "La mejor calidad de propiedades.",
+    "1": {
+      "title": "100% Natural y reciclable",
+      "description": "Superficies duraderas a través de materiales reutilizables, pudiendo regentase por completo tras su ciclo de vida."
+    },
+    "2": {
+      "title": "Impermeable",
+      "description": "Impide la absorción de líquidos y la acumulación de olores gracias a la baja porosidad que presenta."
+    },
+    "3": {
+      "title": "Higiénico",
+      "description": "Nula emisión de componentes orgánicos volátiles, permitiendo el contacto directo con alimentos."
+    },
+    "4": {
+      "title": "Resistencia al rayado y al impacto",
+      "description": "Tolera la energía de impactos y utensilios de corte cuando inciden en la superficie."
+    },
+    "5": {
+      "title": "Resistencia al hielo",
+      "description": "Invariable ante cambios bruscos de temperatura, soportando las condiciones de frío más extremas."
+    },
+    "6": {
+      "title": "Resistencia al fuego",
+      "description": "Ignífugo e incombustible, mantiene su estética y prestaciones ante la aplicación de altas temperaturas."
+    },
+    "7": {
+      "title": "Resistencia a los rayos UV",
+      "description": "Inalterable a los rayos ultravioletas, permaneciendo estable ante el desgaste por fuertes iluminaciones."
+    },
+    "8": {
+      "title": "Resistencia a la abrasión",
+      "description": "Alta durabilidad y buen comportamiento ante el desgaste y raspaduras por el uso diario."
+    },
+    "9": {
+      "title": "Protección contra manchas",
+      "description": "Impermeabilización antibacteriana hidro y oleo repelente que mejora la resistencia frente a la humedad, agentes químicos y manchas."
+    },
+    "10": {
+      "title": "Fácil limpieza",
+      "description": "Cuidado del material sin esfuerzos, siendo innecesario el uso de productos específicos."
+    }
+  },
+  "care&maintenance": {
+    "title": "Cuidado y mantenimiento",
+    "discover": "Descubre nuestras recomendaciones de limpieza"
+  },
+  "environment": {
+    "title": {
+      "first": "Comprometidos",
+      "second": "con el medio",
+      "third": "ambiente"
+    },
+    "description": "El respeto al medio ambiente, la sostenibilidad y la reutilización de los recursos son los elementos clave de la filosofía de Porcelanosa Grupo."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "menu": "Menu",
+  "close": "Cerrar",
+
+  "home": {
+    "title": "Inicio",
+    "spaces": {
+      "title": "Espacios",
+      "kitchen": "Cocinas",
+      "living": "Vivienda",
+      "contract": "Contrato"
+    },
+    "projects": {
+      "title": "Proyectos",
+      "viewAll": "Ver todos"
+    }
+  },
+  "whyXtone": {
+    "title": "Porqué XTONE",
+    "surfaces": {
+      "title": "Tipo de superfície",
+      "sintered": "Sinterizado",
+      "natural": "Natural"
+    },
+    "advantages": {
+      "title": "Ventajas"
+    }
+  },
+  "product": {
+    "title": "Producto",
+    "sintered": {
+      "title": "Compacto sinterizado",
+      "concrete": "Cemento",
+      "stone": "Piedra",
+      "metal": "Metal",
+      "wood": "Madera",
+      "basic": "Monocolor",
+      "marble": "Mármol",
+      "viewAll": "Ver todos"
+    },
+    "natural": {
+      "title": "Piedra natural",
+      "alabaster": "Alabastro",
+      "granite": "Granito",
+      "limestone": "Caliza",
+      "quartzite": "Cuarcita",
+      "marble": "Mármol"
+    },
+    "bathandtables": {
+      "title": "Bath and tables",
+      "tables": "Mesas",
+      "bathtubs": "Bañeras",
+      "showers": "Platos de ducha",
+      "basins": "Lavabos"
+    }
+  },
+  "downloads": {
+    "title": "Descargas",
+    "catalogs": {
+      "title": "Catálogos",
+      "viewCatalogs": "Ver los catálogos"
+    },
+    "documentation": {
+      "title": "Documentación de producto",
+      "viewFilter": "Ver el filtro"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "latest": {
+      "title": "Últimas",
+      "first": "La recuperación del arco",
+      "second": "Marca Altissima",
+      "third": "Nuevo concepto de tienda",
+      "more": "Ver más"
+    },
+    "categories": {
+      "title": "Categorías",
+      "events": "Eventos",
+      "trends": "Tendencias",
+      "product": "Producto",
+      "showroom": "Showrooms"
+    }
+  },
+  "client": {
+    "title": "Cliente",
+    "private": {
+      "title": "Particular",
+      "maintenance": "Limpieza y mantenimiento",
+      "warranty": "Garantía"
+    },
+    "employee": {
+      "title": "Empleado",
+      "login": "Acceso"
+    }
+  },
+  "contact": {
+    "title": "Contacto"
+  }
+}

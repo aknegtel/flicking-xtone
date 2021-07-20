@@ -1,0 +1,26 @@
+.product-applications {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: $container-width;
+  height: 100%;
+  position: relative;
+  align-items: center;
+  margin: 20rem auto;
+
+  &__title {
+    text-align: center;
+    width: 80%;
+  }
+
+  &__images-block {
+    margin-top: 10rem;
+    width: 80%;
+  }
+
+  &__image {
+    & > img {
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+// Transitions for full-screen navigation
+@mixin init-state_full-screen-nav(
+  $delay: 0s,
+  $transform-time: 0.5s,
+  $opacity-time: 0.8s,
+  $transform: 5rem,
+  $opacity: 0
+) {
+  transform: translateY($transform);
+  opacity: $opacity;
+  transition: transform $transform-time $delay $easing,
+    opacity $opacity-time $delay $easing;
+}
+
+@mixin end-state_full-screen-nav {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+@mixin anchor-center {
+  transform: translate(-50%, 50%);
+}
+
+@mixin center-abs {
+  position: absolute;
+  left: 50%;
+  @include anchor-center();
+}

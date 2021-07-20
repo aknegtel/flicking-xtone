@@ -1,0 +1,153 @@
+.full-nav-container {
+  &.nav-open {
+    .full-nav-container__content > * {
+      @include end-state_full-screen-nav;
+    }
+  }
+
+  &__content {
+    display: grid;
+    grid-template-columns: 1.5fr 2fr 2fr;
+    grid-template-areas:
+      "none      none       none"
+      "home      buscador   buscador"
+      "matter    sintered   natural"
+      "downloads sintered   natural"
+      "blog      sintered   natural"
+      "client    sintered   natural"
+      "access    product    natural"
+      "contact   product    natural";
+
+    @include media("<=tablet") {
+      grid-template-areas:
+        "none     "
+        "home     "
+        "matter   "
+        "downloads"
+        "blog     "
+        "client   "
+        "access   "
+        "contact  "
+        "desc     "
+        "buscador "
+        "sintered "
+        "product  "
+        "natural  ";
+    }
+
+    &--buscador {
+      grid-area: buscador;
+      @include init-state_full-screen-nav(0.1s);
+    }
+
+    &--product-lines {
+      grid-area: desc;
+      @include init-state_full-screen-nav(0.05s);
+    }
+    &--home {
+      grid-area: home;
+      @include init-state_full-screen-nav(0.1s);
+    }
+    &--matter {
+      grid-area: matter;
+      @include init-state_full-screen-nav(0.15s);
+    }
+    &--downloads {
+      grid-area: downloads;
+      @include init-state_full-screen-nav(0.2s);
+    }
+    &--blog {
+      grid-area: blog;
+      @include init-state_full-screen-nav(0.25s);
+    }
+    &--client {
+      grid-area: client;
+      display: grid;
+      grid-template-rows: repeat(3, min-content);
+      grid-row-gap: 1rem;
+      align-items: center;
+      @include init-state_full-screen-nav(0.3s);
+      .title {
+        grid-area: 1 / 1 / 1 / 2;
+        justify-self: start;
+      }
+    }
+    &--access {
+      grid-area: access;
+      @include init-state_full-screen-nav(0.35s);
+    }
+    &--contact {
+      grid-area: contact;
+      @include init-state_full-screen-nav(0.4s);
+    }
+    &--sintered {
+      grid-area: sintered;
+      display: grid;
+      grid-template-columns: repeat(2, max-content);
+      grid-template-rows: repeat(12, min-content);
+      grid-auto-flow: row;
+      grid-column-gap: 5rem;
+      grid-row-gap: 0.75rem;
+      align-items: flex-start;
+      @include init-state_full-screen-nav(0.2s);
+
+      .title {
+        grid-area: 1 / 1 / 1 / 3;
+        justify-self: start;
+      }
+
+      .separator {
+        column-span: all;
+        justify-self: end;
+      }
+
+      @include media("<=laptop") {
+        grid-column-gap: 2rem;
+      }
+    }
+    &--product {
+      grid-area: product;
+      align-self: flex-start;
+      display: grid;
+      grid-template-columns: repeat(2, max-content);
+      grid-template-rows: repeat(2, min-content);
+      grid-column-gap: 5rem;
+      grid-row-gap: 1rem;
+      align-items: center;
+      @include init-state_full-screen-nav(0.35s);
+
+      .title {
+        grid-area: 1 / 1 / 1 / 3;
+        justify-self: start;
+      }
+
+      @include media("<=laptop") {
+        grid-column-gap: 2rem;
+        grid-row-gap: 0.5rem;
+      }
+    }
+    &--natural {
+      grid-area: natural;
+      position: relative;
+      display: grid;
+      grid-template-columns: repeat(2, max-content);
+      grid-template-rows: repeat(12, min-content);
+      grid-auto-flow: row;
+      grid-column-gap: 5rem;
+      grid-row-gap: 1rem;
+      align-items: center;
+      @include init-state_full-screen-nav(0.25s);
+
+      .title {
+        grid-area: 1 / 1 / 1 / 3;
+        justify-self: start;
+      }
+
+      @include media("<=1300px") {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "menu": "Menu",
+  "close": "Close",
+
+  "home": {
+    "title": "Home",
+    "spaces": {
+      "title": "Spaces",
+      "kitchen": "Kitchen",
+      "living": "Living",
+      "contract": "Contract"
+    },
+    "projects": {
+      "title": "Projects",
+      "viewAll": "View all"
+    }
+  },
+  "whyXtone": {
+    "title": "Why XTONE",
+    "surfaces": {
+      "title": "Surface type",
+      "sintered": "Sintered",
+      "natural": "Natural"
+    },
+    "advantages": {
+      "title": "Advantages"
+    }
+  },
+  "product": {
+    "title": "Product",
+    "sintered": {
+      "title": "Sintered compact",
+      "concrete": "Concrete",
+      "stone": "Stone",
+      "metal": "Metal",
+      "wood": "Wood",
+      "basic": "Monocolor",
+      "marble": "Marble",
+      "viewAll": "View all"
+    },
+    "natural": {
+      "title": "Natural stone",
+      "alabaster": "Alabaster",
+      "granite": "Granite",
+      "limestone": "Limestone",
+      "quartzite": "Quartzite",
+      "marble": "Marble"
+    },
+    "bathandtables": {
+      "title": "Bath and tables",
+      "tables": "Tables",
+      "bathtubs": "Bathtubs",
+      "showers": "Shower trays",
+      "basins": "Basins"
+    }
+  },
+  "downloads": {
+    "title": "Downloads",
+    "catalogs": {
+      "title": "Catalogs",
+      "viewCatalogs": "View catalogs"
+    },
+    "documentation": {
+      "title": "Product documentation",
+      "viewFilter": "View filter"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "latest": {
+      "title": "Lastest",
+      "first": "Arch recovery",
+      "second": "Altissima brand",
+      "third": "New store concept",
+      "more": "See more"
+    },
+    "categories": {
+      "title": "Categories",
+      "events": "Events",
+      "trends": "Trends",
+      "product": "Product",
+      "showroom": "Showrooms"
+    }
+  },
+  "client": {
+    "title": "Client",
+    "private": {
+      "title": "Home owner",
+      "maintenance": "Product care and cleaning",
+      "warranty": "Warranty"
+    },
+    "employee": {
+      "title": "Employee",
+      "login": "Login"
+    }
+  },
+  "contact": {
+    "title": "Contact"
+  }
+}

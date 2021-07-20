@@ -1,0 +1,208 @@
+{
+  "../components/EnvironmentLogos.js -> ../public/logos/environment/breeam.svg": {
+    "id": "./public/logos/environment/breeam.svg",
+    "files": [
+      "static/chunks/21.js"
+    ]
+  },
+  "../components/EnvironmentLogos.js -> ../public/logos/environment/epd.svg": {
+    "id": "./public/logos/environment/epd.svg",
+    "files": [
+      "static/chunks/22.js"
+    ]
+  },
+  "../components/EnvironmentLogos.js -> ../public/logos/environment/soy_empresa_circular.svg": {
+    "id": "./public/logos/environment/soy_empresa_circular.svg",
+    "files": [
+      "static/chunks/23.js"
+    ]
+  },
+  "../components/EnvironmentLogos.js -> ../public/logos/environment/usgbc_leed.svg": {
+    "id": "./public/logos/environment/usgbc_leed.svg",
+    "files": [
+      "static/chunks/24.js"
+    ]
+  },
+  "../components/PopupUpgradeVersion.js -> ./typography/A": {
+    "id": "./components/typography/A.js",
+    "files": [
+      "static/chunks/1.js"
+    ]
+  },
+  "../components/PopupUpgradeVersion.js -> ./typography/Paragraph": {
+    "id": "./components/typography/Paragraph.js",
+    "files": []
+  },
+  "../components/PopupUpgradeVersion.js -> reactjs-popup": {
+    "id": "./node_modules/reactjs-popup/dist/reactjs-popup.esm.js",
+    "files": [
+      "static/chunks/4.js"
+    ]
+  },
+  "../components/Social.js -> ../public/logos/brands/facebook.svg": {
+    "id": "./public/logos/brands/facebook.svg",
+    "files": [
+      "static/chunks/17.js"
+    ]
+  },
+  "../components/Social.js -> ../public/logos/brands/instagram.svg": {
+    "id": "./public/logos/brands/instagram.svg",
+    "files": [
+      "static/chunks/18.js"
+    ]
+  },
+  "../components/Social.js -> ../public/logos/brands/linkedin.svg": {
+    "id": "./public/logos/brands/linkedin.svg",
+    "files": [
+      "static/chunks/19.js"
+    ]
+  },
+  "../components/Social.js -> ../public/logos/brands/youtube.svg": {
+    "id": "./public/logos/brands/youtube.svg",
+    "files": [
+      "static/chunks/20.js"
+    ]
+  },
+  "../components/layout/Footer.js -> ../../public/logos/logo_xtone.svg": {
+    "id": "./public/logos/logo_xtone.svg",
+    "files": []
+  },
+  "../components/layout/Footer.js -> ../Social": {
+    "id": "./components/Social.js",
+    "files": [
+      "static/chunks/5.js"
+    ]
+  },
+  "../components/layout/Footer.js -> ../typography/SmallText": {
+    "id": "./components/typography/SmallText.js",
+    "files": [
+      "static/chunks/2.js"
+    ]
+  },
+  "../components/layout/Footer.js -> next/image": {
+    "id": "./node_modules/next/image.js",
+    "files": [
+      "static/chunks/11.js"
+    ]
+  },
+  "../components/layout/Footer.js -> next/link": {
+    "id": "./node_modules/next/link.js",
+    "files": []
+  },
+  "../components/layout/navigation/FullScreenNav.js -> ../../Social": {
+    "id": "./components/Social.js",
+    "files": [
+      "static/chunks/5.js"
+    ]
+  },
+  "../components/layout/navigation/FullScreenNav.js -> next/link": {
+    "id": "./node_modules/next/link.js",
+    "files": []
+  },
+  "../components/typography/A.js -> ./Paragraph": {
+    "id": "./components/typography/Paragraph.js",
+    "files": []
+  },
+  "../components/typography/A.js -> ./SmallText": {
+    "id": "./components/typography/SmallText.js",
+    "files": [
+      "static/chunks/2.js"
+    ]
+  },
+  "../components/why-xtone/CareMaintenance.js -> ../FullscreenDividerLink": {
+    "id": "./components/FullscreenDividerLink.js",
+    "files": [
+      "static/chunks/12.js"
+    ]
+  },
+  "../components/why-xtone/CareMaintenance.js -> ../layout/Section": {
+    "id": "./components/layout/Section.js",
+    "files": [
+      "static/chunks/15.js"
+    ]
+  },
+  "../components/why-xtone/NaturalStoneDescription.js -> ../../public/logos/why-xtone/caballete.svg": {
+    "id": "./public/logos/why-xtone/caballete.svg",
+    "files": [
+      "static/chunks/25.js"
+    ]
+  },
+  "../components/why-xtone/NaturalStoneDescription.js -> ../../public/logos/why-xtone/espesoresAltissima.svg": {
+    "id": "./public/logos/why-xtone/espesoresAltissima.svg",
+    "files": [
+      "static/chunks/26.js"
+    ]
+  },
+  "../components/why-xtone/SinteredCompactDescription.js -> ../../public/logos/why-xtone/espesoresXTONE.svg": {
+    "id": "./public/logos/why-xtone/espesoresXTONE.svg",
+    "files": [
+      "static/chunks/27.js"
+    ]
+  },
+  "../components/why-xtone/SinteredCompactDescription.js -> ../../public/logos/why-xtone/tabla.svg": {
+    "id": "./public/logos/why-xtone/tabla.svg",
+    "files": [
+      "static/chunks/28.js"
+    ]
+  },
+  "../helpers/SmoothScroll.context.js -> locomotive-scroll": {
+    "id": "./node_modules/locomotive-scroll/dist/locomotive-scroll.esm.js",
+    "files": [
+      "static/chunks/13.js"
+    ]
+  },
+  "../node_modules/next/dist/client/next-dev.js -> ./dev/noop": {
+    "id": "./node_modules/next/dist/client/dev/noop.js",
+    "files": [
+      "static/chunks/3.js"
+    ]
+  },
+  "_app.js -> ../components/PopupUpgradeVersion": {
+    "id": "./components/PopupUpgradeVersion.js",
+    "files": [
+      "static/chunks/0.js"
+    ]
+  },
+  "index.js -> ../components/XtoneAltissimaTabSelect": {
+    "id": "./components/XtoneAltissimaTabSelect.js",
+    "files": [
+      "static/chunks/14.js"
+    ]
+  },
+  "index.js -> ../components/why-xtone/Advantages": {
+    "id": "./components/why-xtone/Advantages.js",
+    "files": [
+      "static/chunks/7.js"
+    ]
+  },
+  "index.js -> ../components/why-xtone/CareMaintenance": {
+    "id": "./components/why-xtone/CareMaintenance.js",
+    "files": [
+      "static/chunks/16.js"
+    ]
+  },
+  "index.js -> ../components/why-xtone/Environment": {
+    "id": "./components/why-xtone/Environment.js",
+    "files": [
+      "static/chunks/8.js"
+    ]
+  },
+  "index.js -> ../components/why-xtone/Finishes": {
+    "id": "./components/why-xtone/Finishes.js",
+    "files": [
+      "static/chunks/6.js"
+    ]
+  },
+  "index.js -> ../components/why-xtone/NaturalStoneDescription": {
+    "id": "./components/why-xtone/NaturalStoneDescription.js",
+    "files": [
+      "static/chunks/9.js"
+    ]
+  },
+  "index.js -> ../components/why-xtone/SinteredCompactDescription": {
+    "id": "./components/why-xtone/SinteredCompactDescription.js",
+    "files": [
+      "static/chunks/10.js"
+    ]
+  }
+}

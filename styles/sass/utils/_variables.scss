@@ -1,0 +1,25 @@
+// colors
+$background: #000;
+$text-color-dark: #000;
+$text-color-light: #fff;
+$content-dark: #000;
+$content-light: #fff;
+
+// breakpoints
+$breakpoints: (
+  mobile: 425px,
+  tablet: 768px,
+  laptop: 1024px,
+  laptop-l: 1440px,
+  desktop: 1920px,
+  quadhd: 2560px,
+);
+
+// font
+$default-font-size: 1.6rem;
+
+// Animation easing
+$easing: cubic-bezier(0.76, 0, 0.24, 1);
+
+// Container
+$container-width: 90%;

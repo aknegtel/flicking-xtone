@@ -1,0 +1,100 @@
+{
+  "menu": "Menu",
+  "close": "Fermer",
+
+  "home": {
+    "title": "Accueil",
+    "spaces": {
+      "title": "Espaces",
+      "kitchen": "Cuisine",
+      "living": "Vivant",
+      "contract": "Contracter"
+    },
+    "projects": {
+      "title": "Projets",
+      "viewAll": "Voir tout"
+    }
+  },
+  "whyXtone": {
+    "title": "Pourquoi XTONE",
+    "surfaces": {
+      "title": "Type de surface",
+      "sintered": "Fritté",
+      "natural": "Naturelle"
+    },
+    "advantages": {
+      "title": "Avantages"
+    }
+  },
+  "product": {
+    "title": "Produit",
+    "sintered": {
+      "title": "Compact fritté",
+      "concrete": "Cement",
+      "stone": "Pierre",
+      "metal": "Métal",
+      "wood": "Bois",
+      "basic": "Basic",
+      "marble": "Marbre",
+      "viewAll": "Voir tout"
+    },
+    "natural": {
+      "title": "Pierre naturelle",
+      "alabaster": "Albâtre",
+      "granite": "Granit",
+      "limestone": "Calcaire",
+      "quartzite": "Quartzite",
+      "marble": "Marbre"
+    },
+    "bathandtables": {
+      "title": "Bath and tables",
+      "tables": "Tables",
+      "bathtubs": "Bathtubs",
+      "showers": "Shower trays",
+      "basins": "Basins"
+    }
+  },
+  "downloads": {
+    "title": "Téléchargements",
+    "catalogs": {
+      "title": "Catalogues",
+      "viewCatalogs": "Voir les catalogues"
+    },
+    "documentation": {
+      "title": "Documentation du produit",
+      "viewFilter": "Voir le filtre"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "latest": {
+      "title": "Dernière",
+      "first": "Récupération de l'arche",
+      "second": "Marque Altissima",
+      "third": "Nouveau concept de magasin",
+      "more": "Voir plus"
+    },
+    "categories": {
+      "title": "Catégorie",
+      "events": "Événements",
+      "trends": "Tendances",
+      "product": "Produit",
+      "showroom": "Salles d'exposition"
+    }
+  },
+  "client": {
+    "title": "Client",
+    "private": {
+      "title": "Particulier",
+      "maintenance": "Nettoyage et entretien du produit",
+      "warranty": "Garantie"
+    },
+    "employee": {
+      "title": "Employé",
+      "login": "Accès"
+    }
+  },
+  "contact": {
+    "title": "Contact"
+  }
+}
